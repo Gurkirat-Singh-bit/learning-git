@@ -88,6 +88,3 @@ To collaborate on projects using GitHub, follow these steps:
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 
 ---
-
-Feel free to reach out if you have any questions or need further assistance!
-
